@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Gravity
-email: hemangsk@gmail.com
-description: The Liberal Jekyll Theme
+title: Emma Caison
+email: emmacai@live.unc.edu
+description: INLS 161 Assignment 2
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: hemang_kumar
-github_username:  hemangsk
+url: "https://emmacai.github.io" # the base hostname & protocol for your site
+twitter_username: No Thanks
+github_username:  emmacai
 
 # Build settings
 markdown: kramdown
