@@ -11,7 +11,7 @@ email: emmacai@live.unc.edu
 description: INLS 161 Assignment 2
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://emmacai.github.io" # the base hostname & protocol for your site
-twitter_username: No Thanks
+twitter_username: 
 github_username:  emmacai
 
 # Build settings
