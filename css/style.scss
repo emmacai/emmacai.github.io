@@ -14,13 +14,13 @@ $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$text-color:       #708090;
+$background-color: #FFE4E1;
+$brand-color:      #4682B4;
 
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+$blue-color:       #87CEFA;
+$blue-color-light: lighten($blue-color, 40%);
+$blue-color-dark:  darken($blue-color, 25%);
 
 // Width of the content area
 $content-width:    800px;
@@ -194,8 +194,8 @@ a {
  * Blockquotes
  */
 blockquote {
-    color: $grey-color;
-    border-left: 4px solid $grey-color-light;
+    color: $blue-color;
+    border-left: 4px solid $blue-color-light;
     padding-left: $spacing-unit / 2;
     font-size: 18px;
     letter-spacing: -1px;
@@ -214,7 +214,7 @@ blockquote {
 pre,
 code {
     font-size: 15px;
-    border: 1px solid $grey-color-light;
+    border: 1px solid $blue-color-light;
     border-radius: 3px;
     background-color: #eef;
 }
@@ -284,7 +284,7 @@ pre {
         vertical-align: middle;
 
         path {
-            fill: $grey-color;
+            fill: $blue-color;
         }
     }
 }
@@ -365,8 +365,8 @@ pre {
  * Site header
  */
 .site-header {
-  border-top: 5px solid $grey-color-dark;
-  border-bottom: 1px solid $grey-color-light;
+  border-top: 5px solid $blue-color-dark;
+  border-bottom: 1px solid $blue-color-light;
   min-height: 56px;
   // Positioning context for the mobile navigation icon
   position: relative;
@@ -380,7 +380,7 @@ pre {
   margin-top: 1em;
   &,
   &:visited {
-    color: $grey-color-dark;
+    color: $blue-color-dark;
   }
 }
 .site-description {
@@ -434,7 +434,7 @@ pre {
     top: 9px;
     right: $spacing-unit / 2;
     background-color: $background-color;
-    border: 1px solid $grey-color-light;
+    border: 1px solid $blue-color-light;
     border-radius: 5px;
     text-align: right;
     .menu-icon {
@@ -449,7 +449,7 @@ pre {
         width: 18px;
         height: 15px;
         path {
-          fill: $grey-color-dark;
+          fill: $blue-color-dark;
         }
       }
     }
@@ -475,7 +475,7 @@ pre {
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $grey-color-light;
+  border-top: 1px solid $blue-color-light;
   padding: $spacing-unit 0;
 }
 .footer-heading {
@@ -492,7 +492,7 @@ pre {
 }
 .footer-col-wrapper {
   font-size: 15px;
-  color: $grey-color;
+  color: $blue-color;
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;
 }
@@ -554,7 +554,7 @@ pre {
 }
 .post-meta {
   font-size: $small-font-size;
-  color: $grey-color;
+  color: $blue-color;
   text-transform: uppercase;
   font-size: 16px;
 }
