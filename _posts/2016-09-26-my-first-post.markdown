@@ -3,6 +3,7 @@ layout: post
 title:  "My First Post!"
 date:   2016-09-25 
 ---
+
 <h1>Welcome to my first post for INLS 161!</h1>
 
 Thus far in this class I have learned so much about things I had never heard of before. A lot of the information has been very overwhelming, as we've covered a lot of material in a short amount of time. However, I feel as though I'm learning skills that can be applied to real life situations.
@@ -15,3 +16,4 @@ To create this post, I added a file in the `_posts` directory. I was able to see
 I am a little confused about html and css, but I look forward to learning more about them in the future. 
 
 _-Emma_
+
