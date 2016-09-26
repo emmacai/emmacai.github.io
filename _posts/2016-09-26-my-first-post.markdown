@@ -14,3 +14,4 @@ To create this post, I added a file in the `_posts` directory. I was able to see
 
 I am a little confused about html and css, but I look forward to learning more about them in the future. 
 
+_-Emma_
