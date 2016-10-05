@@ -17,3 +17,6 @@ I am a little confused about html and css, but I look forward to learning more a
 
 _-Emma_
 
+<a href="http://tinypic.com?ref=zm1pa9" target="_blank"><img src="http://i66.tinypic.com/zm1pa9.png" border="0" alt="Image and video hosting by TinyPic"></a>
+
+(This meme is a pretty accurate representation of how I feel in this class.)
