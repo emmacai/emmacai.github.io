@@ -11,7 +11,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font: 400 16px/1.5 "PT Sans", Helvetica, Arial, sans-serif;
+  font: 400 95px/1.1 'Lobster',Georgia, Times, serif;
   color: #708090;
   background-color: #FFE4E1;
   -webkit-text-size-adjust: 100%;
@@ -243,7 +243,7 @@ pre {
 .site-title {
   font-size: 64px;
   font-weight: 100;
-  font-family: 'PT Sans';
+  /*font-family: 'PT Sans';*/
   text-transform: capitalize;
   font-weight: 500;
   margin-top: 1em; }
