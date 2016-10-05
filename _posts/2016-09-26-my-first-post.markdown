@@ -10,7 +10,7 @@ Thus far in this class I have learned so much about things I had never heard of 
 
 Github and Cloud 9 are two extremely useful sites for coding that I feel relatively comfortable using now (at a very basic level).
 I am very comfortable with the basic navigational terms, such as __cd__ and __pwd__, which allow you to change directories and tells you where you are, respectively. 
-<a href="htthttps://education.github.com/git-cheat-sheet-education.pdfp://www.rapidtables.com/web/tools/linked-page.htm">This</a> git cheat sheet has proven to be very helpful with 
+<a href="This">https://education.github.com/git-cheat-sheet-education.pdf</a> git cheat sheet has proven to be very helpful for specific github commands.
 
 
 To create this post, I added a file in the `_posts` directory. I was able to see what my post would look like on my website by running `jekyll serve --host $IP --port $PORT`. After I was satisfied with how my post looked, I committed it and push it to github. 
