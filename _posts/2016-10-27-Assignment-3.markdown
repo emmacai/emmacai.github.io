@@ -16,19 +16,19 @@ To write my script, I used the following commands:
 <ul>
 <li>HTML
 <ul>
-<li>`pandoc --smart -o example-paper.html example-paper.md`</li>
+<li> `pandoc --smart -o example-paper.html example-paper.md` </li>
 </ul></li>
 <li>DOCX
 <ul>
-<li>`pandoc --smart -o example-paper.docx example-paper.md`</li>
+<li> `pandoc --smart -o example-paper.docx example-paper.md` </li>
 </ul></li>
 <li>ODT
 <ul>
-<li>`pandoc --smart -o example-paper.docx example-paper.md`</li>
+<li> `pandoc --smart -o example-paper.docx example-paper.md` </li>
 </ul></li>
 <li>PDF
 <ul>
-<li>`pandoc --smart -o example-paper.pdf example-paper.md`</li>
+<li> `pandoc --smart -o example-paper.pdf example-paper.md` </li>
 </ul></li>
 </ul>
 
