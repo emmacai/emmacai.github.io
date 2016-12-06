@@ -5,7 +5,7 @@ date:   2016-12-05
 ---
 
 # Assignment 6 Reflection
-Here is the link to our [presentation!](https://emmacai.github.io/emmaandsarah)!
+Here is the link to our [presentation!](https://emmacai.github.io/emmaandsarah)
 
 
 I am so proud of of final presentation! This project truly showed how much we learned in this class. 
